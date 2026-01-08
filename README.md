@@ -6,7 +6,8 @@
 Name      : Jaideep Singh  
 URN       : 2302721  
 Title     : 6-Month Training Daily Diary  
-Domain    : Cyber Security  
+Domain    : Cyber Security 
+Date      : 21-06-2025 to 23-07-2025 at CYBERCORE Technologies
 
 ---
 
@@ -99,26 +100,26 @@ to system security, networking, and ethical cyber practices.
 
 ---
 
-## 🟦 WEEK 4 – Web & Client–Server Architecture
+## 🟦 WEEK 4 – Url Safety work
 
 ### Day 1
-• Introduction to web applications  
-• How websites work  
+• Introduction to url safety  
+• How it works
 
 ### Day 2
-• Client–server architecture  
-• Role of browser and web server  
+• Writing Scripts for url in python  
+• testing the scripts
 
 ### Day 3
-• HTTP request and response cycle  
-• Status codes overview  
+• Updation to url safety checker  
+• adding API's for real time Checking
 
 ### Day 4
-• Difference between HTTP and HTTPS  
-• Importance of secure communication  
+• Final Testing and adding data
+• Re-Testing and Deployment  
 
 ### Day 5
-• Static vs dynamic websites  
+• Using at Real time Scanning with api  
 • Weekly revision and documentation  
 
 ---
